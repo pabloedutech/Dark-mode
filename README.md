@@ -1,2 +1,1 @@
-# Dark-mode
-Uma landing page com a implementação de opções de temas Ligth e Dark
+salvando as preferências de tema no local storage
